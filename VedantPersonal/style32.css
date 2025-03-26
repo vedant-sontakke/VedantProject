@@ -172,13 +172,13 @@ nav ul li a:hover::after{
     font-weight: 500;
     margin-bottom: 15px;
 }
-.services-list div a{
+/* .services-list div a{
     text-decoration: none;
     color: #fff;
     font-size: 12px;
     margin-top: 20px;
     display: inline-block;
-}
+} */
 .services-list div:hover{
     background: #ff004f;
     transform: translateY(-10px);
